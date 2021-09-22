@@ -1,0 +1,8 @@
+.fruitContainer {
+    display: flex;
+    margin: 20px;
+    padding: 10px;
+    border: solid black 2px;
+    width: 30%;
+    justify-content: center;
+}
